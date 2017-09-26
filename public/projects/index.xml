@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jente Hidskes&#39; personal website</title>
+    <link>https://hjdskes.github.io/projects/</link>
+    <description>Recent content in Projects on Jente Hidskes&#39; personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016, 2017 Jente Hidskes</copyright>
+    <lastBuildDate>Mon, 08 Aug 2016 13:18:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://hjdskes.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://hjdskes.github.io/projects/projects/</link>
+      <pubDate>Mon, 08 Aug 2016 13:18:21 +0200</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/projects/</guid>
+      <description>I maintain several open-source applications of my own. I also do course projects for university. Below you will find a list of projects I think are worth mentioning. Please browse through my GitHub repositories for an exhaustive list.</description>
+    </item>
+    
+    <item>
+      <title>Spoofax Shell: my thesis project to create a REPL for Spoofax</title>
+      <link>https://hjdskes.github.io/projects/spoofax-shell/</link>
+      <pubDate>Wed, 29 Jun 2016 17:23:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/spoofax-shell/</guid>
+      <description>Spoofax Shell is my thesis project to create a REPL for the Spoofax Language Workbench. Read the accompanying report here.</description>
+    </item>
+    
+    <item>
+      <title>GTimeUtils: a stopwatch and a timer, bundled together as time utilities</title>
+      <link>https://hjdskes.github.io/projects/gtimeutils/</link>
+      <pubDate>Sat, 22 Aug 2015 16:52:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/gtimeutils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNAinator: visualizing and exploring DNA sequence graphs</title>
+      <link>https://hjdskes.github.io/projects/dnainator/</link>
+      <pubDate>Thu, 25 Jun 2015 00:47:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/dnainator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arek Window Manager: a Mutter-based tiling window manager</title>
+      <link>https://hjdskes.github.io/projects/arek/</link>
+      <pubDate>Sat, 21 Mar 2015 21:29:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/arek/</guid>
+      <description>Arek Window Manager is a plugin to Mutter in an (ambitious) attempt to create a tiling window manager with eye-candy. Due to several limitations on Mutter&amp;rsquo;s side, a moving Wayland target and a lack of time on my side, this project is not actively maintained at the moment.</description>
+    </item>
+    
+    <item>
+      <title>Line Follower: an embedded software course project</title>
+      <link>https://hjdskes.github.io/projects/linefollower/</link>
+      <pubDate>Sun, 25 Jan 2015 21:27:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/linefollower/</guid>
+      <description>Line Follower is an embedded software course project to make a robot follow a line. An Android app is used to send images from the camera to a laptop via the network, where the laptop detects the line and sends commands to the robot via Bluetooth.</description>
+    </item>
+    
+    <item>
+      <title>2048: a software engineering course project</title>
+      <link>https://hjdskes.github.io/projects/2048/</link>
+      <pubDate>Fri, 14 Nov 2014 14:27:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/2048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ray Tracer: a computer graphics course project</title>
+      <link>https://hjdskes.github.io/projects/raytracer/</link>
+      <pubDate>Thu, 26 Jun 2014 22:45:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/raytracer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExcelPP: a freshmen OOP project to create a spreadsheet application</title>
+      <link>https://hjdskes.github.io/projects/excelpp/</link>
+      <pubDate>Mon, 27 Jan 2014 10:37:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/excelpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphorus: a wallpaper browser and setter in the spirit of Nitrogen</title>
+      <link>https://hjdskes.github.io/projects/phosphorus/</link>
+      <pubDate>Fri, 15 Nov 2013 21:40:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/phosphorus/</guid>
+      <description>Phosphorus is a wallpaper browser and setter in the spirit of Nitrogen. It can be considered an unofficial port of Nitrogen to GTK+ 3. Phosphorus is different, however, in that it is plugin-based. This allows it be agnostic as to how the wallpaper is actually applied &amp;ndash; each Desktop Environment has its own plugin with this functionality.</description>
+    </item>
+    
+    <item>
+      <title>Gcolor3: a color selection dialog written in GTK&#43; 3</title>
+      <link>https://hjdskes.github.io/projects/gcolor3/</link>
+      <pubDate>Sun, 24 Feb 2013 17:31:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/gcolor3/</guid>
+      <description>Ever wanted to know the value of that color on your screen? Gcolor3 enables you to pick the color from any pixel on your screen. It also offers a palette, so that you can easily mix and match a couple of colors together.
+When you have found the perfect combination of colors, naturally you want to save them. Gcolor3 allows you to conveniently save and retrieve colors.</description>
+    </item>
+    
+    <item>
+      <title>Powersave: aggressive power saving on a Linux system</title>
+      <link>https://hjdskes.github.io/projects/powersave/</link>
+      <pubDate>Sat, 30 Jun 2012 00:22:00 +0100</pubDate>
+      
+      <guid>https://hjdskes.github.io/projects/powersave/</guid>
+      <description>Powersave is a combination of scripts, udev rules, configuration files and systemd services to enable (aggressive) power saving on a Linux system. The configuration is tailered to my own laptop, but is easily adaptable to a new system.</description>
+    </item>
+    
+  </channel>
+</rss>
