@@ -8,7 +8,7 @@
 # for more information.
 
 # GitHub username
-USERNAME=hjdskes
+USERNAME=mikeymop
 # Name of the branch containing the Hugo source files.
 SOURCE=hugo
 
