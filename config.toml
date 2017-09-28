@@ -1,4 +1,4 @@
-baseurl = "https://mdefrances.co/"  # End your URL with a `/` trailing slash.
+baseurl = "http://mdefrances.co/"  # End your URL with a `/` trailing slash.
 title = "MDe"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "New Jersey Institute of Technology"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "midefran@msn.com"
   address = "New York, USA"
   office_hours = "Please contact me"
