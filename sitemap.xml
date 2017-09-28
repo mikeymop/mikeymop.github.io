@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/</loc>
+      <loc>http://mdefrances.co/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/academic/</loc>
+      <loc>http://mdefrances.co/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/talk/example-talk/</loc>
+      <loc>http://mdefrances.co/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication/</loc>
+      <loc>http://mdefrances.co/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/talk/</loc>
+      <loc>http://mdefrances.co/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/project/deep-learning/</loc>
+      <loc>http://mdefrances.co/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/project/example-external-project/</loc>
+      <loc>http://mdefrances.co/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/getting-started/</loc>
+      <loc>http://mdefrances.co/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/widgets/</loc>
+      <loc>http://mdefrances.co/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00-04:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/managing-content/</loc>
+      <loc>http://mdefrances.co/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00-04:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/writing-markdown-latex/</loc>
+      <loc>http://mdefrances.co/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00-04:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication/person-re-identification/</loc>
+      <loc>http://mdefrances.co/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/post/migrate-from-jekyll/</loc>
+      <loc>http://mdefrances.co/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication/clothing-search/</loc>
+      <loc>http://mdefrances.co/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication_types/1/</loc>
+      <loc>http://mdefrances.co/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication_types/2/</loc>
+      <loc>http://mdefrances.co/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/categories/</loc>
+      <loc>http://mdefrances.co/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/deep-learning/</loc>
+      <loc>http://mdefrances.co/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +170,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/demo/</loc>
+      <loc>http://mdefrances.co/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +180,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/hugo/</loc>
+      <loc>http://mdefrances.co/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +190,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/jekyll/</loc>
+      <loc>http://mdefrances.co/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +200,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/</loc>
+      <loc>http://mdefrances.co/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -210,7 +210,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/project/</loc>
+      <loc>http://mdefrances.co/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/publication_types/</loc>
+      <loc>http://mdefrances.co/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -230,7 +230,7 @@
     
     <url>
     
-      <loc>https://mdefrances.co/tags/</loc>
+      <loc>http://mdefrances.co/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
