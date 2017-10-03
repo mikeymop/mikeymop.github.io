@@ -22,5 +22,4 @@ I offer several technical services including but not limited too:
 - eCommerce Websites
 - Network Services
 - Computer Repair, Virus removal
-- CS101: An intro to computer science
-
+- Tech Consulting
